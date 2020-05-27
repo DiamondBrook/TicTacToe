@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="current_player_x">Current Player: X</string>
+    <string name="current_player_o">Current Player: O</string>
+    <string name="player_x_wins">Player X Wins!!!</string>
+    <string name="player_o_wins">Player O Wins!!!</string>
+    <string name="rules">Rules\nTake turns placing letters in the grid</string>
+</resources>
